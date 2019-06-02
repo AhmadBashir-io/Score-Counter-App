@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ScoreCounter</string>
+    <string name="chelsea">Chelsea</string>
+    <string name="fouls">Fouls:</string>
+    <string name="foul">Foul</string>
+    <string name="goal">Goal</string>
+    <string name="scores">Scores:</string>
+    <string name="chelsea_point">0</string>
+    <string name="arsenal_point">0</string>
+    <string name="chelsea_foul_point">0</string>
+    <string name="arsenal_foul_point">0</string>
+    <string name="arsenal">Arsenal</string>
+    <string name="chel_goal">Chelsea Goal</string>
+    <string name="ars_goal">Arsenal Goal</string>
+    <string name="chel_foul">Chelsea foul</string>
+    <string name="ars_foul">Arsenal Foul</string>
+    <string name="reset">Reset</string>
+
+
+</resources>
